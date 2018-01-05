@@ -1,8 +1,8 @@
 # Avorion Server using Docker
 
 
-![Avorion](https://i2.wp.com/bigbossbattle.com/wp-content/uploads/2017/01/logo_done.png?w=705&ssl=1)
-![Docker](https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png)
+![Avorion](https://divinereapers.org/wp-content/uploads/group-avatars/96/58d047dd2aa99-bpfull.png)
+![Docker](https://www.segusoft.de/assets/img/technologies/docker-logo.png)
 
 ## Description
 
