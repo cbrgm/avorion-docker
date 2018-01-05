@@ -1,7 +1,8 @@
 # Avorion Server using Docker
 
-![Avorion Logo] (https://i2.wp.com/bigbossbattle.com/wp-content/uploads/2017/01/logo_done.png?w=705&ssl=1) 
-![Docker Logo] (http://www.greenreedtech.com/content/images/2015/11/DockerLogo-2.png)
+
+![Avorion](https://i2.wp.com/bigbossbattle.com/wp-content/uploads/2017/01/logo_done.png?w=705&ssl=1)
+![Docker](https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png)
 
 ## Description
 
