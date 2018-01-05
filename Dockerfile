@@ -25,8 +25,8 @@ RUN bin/steamcmd.sh \
 
 EXPOSE 27000 27000/udp
 EXPOSE 27003 27003/udp
-EXPOSE 27020
-EXPOSE 27021
+EXPOSE 27020 27020/udp
+EXPOSE 27021 27020/udp
 
 # Start server on container startup
 CMD server/server.sh --galaxy-name world --admin $SERVER_ADMIN --datapath galaxy/
