@@ -1,5 +1,8 @@
 # Avorion Server using Docker
 
+![Avorion Logo] (https://i2.wp.com/bigbossbattle.com/wp-content/uploads/2017/01/logo_done.png?w=705&ssl=1) 
+![Docker Logo] (http://www.greenreedtech.com/content/images/2015/11/DockerLogo-2.png)
+
 ## Description
 
 You want to host your own dedicated Avorion Server? Best in a docker container? Then you've come to the right place!
