@@ -21,7 +21,7 @@ Follow the steps to get startet!
 Clone this repository and its content using
 
 ```bash
-git clone https://github.com/cbrgm/7days-docker
+git clone https://github.com/cbrgm/avorion-docker
 ```
 
 #### Step 2: Create an up-to-date image of avorion-server
